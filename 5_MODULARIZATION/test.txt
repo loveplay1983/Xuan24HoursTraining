@@ -1,0 +1,1 @@
+`This following text is a test for %%writefile file.txt.`
