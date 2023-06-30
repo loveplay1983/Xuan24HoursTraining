@@ -53,4 +53,12 @@ All nn.Module subclasses require a forward() method, this defines the computatio
     - torch.distributioned.elastic.metrics 
     
     
+- torchvision
+    - torchvision.datasets
+    - torchvision.models
+    - torchvision.transforms
+    - torch.utils.data.Dataset
+    - torch.utils.data.DataLoader()
+    
+    
     
