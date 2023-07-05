@@ -142,3 +142,7 @@ https://pytorch.org/tutorials/beginner/former_torchies/parallelism_tutorial.html
 https://pytorch.org/tutorials/beginner/ddp_series_multigpu.html 
 https://www.run.ai/guides/multi-gpu/pytorch-multi-gpu-4-techniques-explained
 https://www.aime.info/blog/en/multi-gpu-pytorch-training/
+
+### Other ML study resource
+- d2l
+https://d2l.ai/
