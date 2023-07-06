@@ -146,3 +146,7 @@ https://www.aime.info/blog/en/multi-gpu-pytorch-training/
 ### Other ML study resource
 - d2l
 https://d2l.ai/
+
+### Coding resource
+- creek
+https://www.programcreek.com/python/example/104830/torchvision.transforms.Normalize
